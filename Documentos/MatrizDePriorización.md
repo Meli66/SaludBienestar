@@ -1,6 +1,6 @@
-Stakeholder | Prioridad 
-Usuarios   |   Alta     
-Profesionales de la salud | Media 
+Stakeholder | Prioridad |
+Usuarios   |   Alta  |   
+Profesionales de la salud | Media |
 Desarrolladores  | Baja   
 
 
