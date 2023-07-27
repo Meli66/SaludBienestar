@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HealthyTracker - Página de Registro</title>
+  <title>SaludBienestar - Página de Registro</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -23,7 +23,7 @@
   </style>
 </head>
 <body>
-  <h1>HealthyTracker - Registro</h1>
+  <h1>SaludBienestar - Registro</h1>
   <form id="registrationForm">
     <label for="name">Nombre:</label>
     <input type="text" id="name" required>
@@ -46,7 +46,7 @@
       // Por ejemplo, usando Fetch API o AJAX para enviar los datos a un servidor
       
       // Mostrar un mensaje de registro exitoso
-      alert('Registro exitoso. ¡Bienvenido a HealthyTracker!');
+      alert('Registro exitoso. ¡Bienvenido a SaludBienestar!');
       
       // Luego, podrías redirigir al usuario a otra página o realizar otras acciones necesarias
       // window.location.href = 'otra-pagina.html';
